@@ -1,0 +1,26 @@
+# Pure Data externals — compiled outputs
+*.pd_linux
+*.pd_darwin
+*.pd_win32
+*.pd_win64
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+
+# Audio samples / test files
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.flac
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
